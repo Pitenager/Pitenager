@@ -30,9 +30,9 @@ I investigate stuff 🔭 then break that stuff 💀, and after all, write some o
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://www.linkedin.com/in/pablo-ruiz-encinas/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/pruizen"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://pitenager.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://www.linkedin.com/in/pablo-ruiz-encinas/"><img src="https://github.com/Pitenager/Pitenager/blob/main/icons/linkedin.png"/></a>
+<a href= "https://twitter.com/pruizen"><img src="https://github.com/Pitenager/Pitenager/blob/main/icons/twitter.png"/></a>
+<a href= "https://pitenager.com"><img src="https://github.com/Pitenager/Pitenager/blob/main/icons/website.png"/></a>
 </p>
 
 <p  align="center">
