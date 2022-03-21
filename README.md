@@ -1,4 +1,5 @@
-# Hello there 👋
+# Hello, friend 👋
+![](https://github.com/Pitenager/Pitenager/blob/main/icons/header.png)
 
 I investigate stuff 🔭 then break that stuff 💀, and after all, write some other stuff to break that stuff again faster 💻    
 
