@@ -18,6 +18,10 @@ I investigate stuff 🔭 then break that stuff 💀, and after all, write some o
 * 🎉   Proud member of [SEDEA](https://www.sedea.es/) / [GIAC Advisory Board](https://www.credly.com/org/global-information-assurance-certification-giac/badge/giac-advisory-board.1) / [Crummie5](https://www.crummie5.club/) / CCF.
 * 🏆   CTF Player, Elite Hacker Rank on [HTB](https://app.hackthebox.com)
 * ⚡   Football lover and cat owner.
+  
+<p align="center">
+<a href= "https://www.pitenager.com/about/sedea.pdf"><img src="https://github.com/Pitenager/Pitenager/blob/main/icons/sedea.png" height="100" width="120"/></a> <a href= ""><img src="https://github.com/Pitenager/Pitenager/blob/main/icons/giac.png" height="100" width="110"/></a> <a href= "https://www.crummie5.club/about/"><img src="https://github.com/Pitenager/Pitenager/blob/main/icons/crummie5.png" height="100" width="120"/></a>
+</p>
 </details>
   
 <hr>
