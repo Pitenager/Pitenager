@@ -15,7 +15,7 @@ I investigate stuff 🔭 then break that stuff 💀, and after all, write some o
   <summary>Some other achievements about me:</summary>
   <br>
 
-* 📜   OSCP, CRTP, OSWP, DSOC, GPEN, GCIH, AWS SAA-C03 & CRTO Certified. 
+* 📜   OSCP, OSEP, CRTP, OSWP, DSOC, GPEN, GCIH, AWS SAA-C03 & CRTO Certified. 
 * 🎉   Proud member of [SEDEA](https://www.sedea.es/) / [GIAC Advisory Board](https://www.credly.com/org/global-information-assurance-certification-giac/badge/giac-advisory-board.1) / [Crummie5](https://www.crummie5.club/) / CCF.
 * 🏆   CTF Player, Elite Hacker Rank on [HTB](https://app.hackthebox.com)
 * ⚡   Football lover and cat owner.
