@@ -4,10 +4,10 @@
 I investigate stuff 🔭 then break that stuff 💀, and after all, write some other stuff to break that stuff again faster 💻    
 
 * 🧐   Interested in Red Teaming and Adversary Simulation.
-* 💼   Managing Security Consultant at [Ernst&Young AS](https://www.ey.com/no_no) (Oslo, Norway). Previously Penetration Tester in Madrid, Spain
-* 🎓   Master of Science in Research in Cybersecurity, B.S. in Software Engineering. Best of his promotion.
-* 🌱   Currently learning Cloud Security, IaaS, Exploit Development & Reverse Engineering.
-* 💻   With 6 years' computer science and technology education and 5 years' working experience.
+* 💼   Managing Security Consultant at [Ernst&Young AS](https://www.ey.com/no_no) (Oslo, Norway).
+* 🎓   M.S. in Research in Cybersecurity, B.S. in Software Engineering. Best of his promotion.
+* 🌱   Currently learning Cloud Security, Exploit Development & Reverse Engineering.
+* 💻   With 6+ years' working experience.
 * ⛵   Encouraging people for applying security mindset in their jobs.
 * ✍🏻   I write my personal thoughts on Red Teaming & Hacking in general in my [Personal Blog](https://pitenager.com/)
 
